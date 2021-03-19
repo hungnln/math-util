@@ -1,0 +1,7 @@
+CÁC LỆNH DÙNG HẰNG NGÀY ĐỂ UPLOAD CODE LÊN KHO CÓ SẴN
+-chuyển đến thư mục chứa code qua các lênh cd
+-thoải mái thêm xóa code, tập tin tùy ý
+-gõ lệnh git add * hoặc git add . đều được
+-gõ lệnh git commit -m "Bạn tính cập nhật gì lên kho ?"
+-gõ lệnh git push
+* COI CHỪNG CONFLICT

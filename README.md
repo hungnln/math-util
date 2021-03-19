@@ -2,7 +2,7 @@
 for your project.
 
 ### You will find in this repo the following stuff:
-.gitignore fine itself to demonstrate how to ask the Git tool to upload a file or not
+* .gitignore fine itself to demonstrate how to ask the Git tool to upload a file or not
 * README.md file itself to show the Homepage of this repo
 * All of match methods located in the src folder to support for the math calculation in your project
 * (TBA...)
@@ -12,3 +12,5 @@ for your project.
 [My email](mailto: nguyenhung09082000@yahoo.com)
 
 © 2021 nguyenhung
+
+
