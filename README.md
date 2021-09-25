@@ -1,4 +1,4 @@
-## Welcome to Math Utility Repository. This repo pffers various math methods used as a helper for your project.
+## Welcome to Math Utility Repository. This repo offers various math methods used as a helper for your project.
 
 [![MathUtil project | CI process included | © 2021 by hungpc](https://github.com/nguyenhung0908/math-util/actions/workflows/mathutil-ci-actions.yml/badge.svg)](https://github.com/nguyenhung0908/math-util/actions/workflows/mathutil-ci-actions.yml)
 
